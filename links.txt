@@ -1,0 +1,10 @@
+1: https://www.brioni.com
+2: https://www.brioni.com/fr/fr/ca/new-arrivals
+3: https://www.brioni.com/fr/fr/ca/knitwear
+4: https://www.brioni.com/fr/fr/ca/suits
+5: https://www.brioni.com/fr/fr/ca/denim-and-five-pockets
+6: https://www.brioni.com/fr/fr/ca/formal-shirts
+7: https://www.brioni.com/fr/fr/ca/belts
+8: https://www.brioni.com/fr/fr/ca/the-riviera-collection
+9: https://www.brioni.com/fr/fr/ca/sneakers
+10: https://www.brioni.com/fr/fr/ca/casual-shoes
